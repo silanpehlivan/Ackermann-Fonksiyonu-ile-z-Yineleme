@@ -32,6 +32,7 @@ Bu fonksiyon çok hızlı büyüyen bir yapıya sahiptir ve küçük değerlerde
 ---
 
 ⚙️ Teknik Detaylar
+---
 
 | Özellik | Açıklama |
 |----------|----------|
@@ -43,6 +44,7 @@ Bu fonksiyon çok hızlı büyüyen bir yapıya sahiptir ve küçük değerlerde
 ---
 
 💻 Implementasyon Detayları
+---
 
 Projenin ana mantığı `Program.cs` dosyasında bulunan `Ackermann(int a, int b)` fonksiyonunda yer almaktadır.
 
@@ -71,6 +73,7 @@ Main metodu içerisinde örnek olarak `A(2, 4)` hesaplanmış ve sonuç konsola 
 ---
 
 🚀 Kurulum ve Çalıştırma
+---
 
 1. Projeyi indirip klasöre çıkarın  
 2. `VeriOdev9.sln` dosyasını Visual Studio ile açın  
@@ -80,6 +83,7 @@ Main metodu içerisinde örnek olarak `A(2, 4)` hesaplanmış ve sonuç konsola 
 ---
 
 📂 Proje Yapısı
+---
 
 ```
 Ackermann-Fonksiyonu-ile-Ozyineleme-master/
@@ -94,11 +98,13 @@ Ackermann-Fonksiyonu-ile-Ozyineleme-master/
 ---
 
 📜 Lisans
+---
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar LICENSE dosyasında yer almaktadır.
 
 ---
 
-👩‍💻 Yazar
+👩‍💻 Geliştirici
+---
 
-Şilan Pehlivan
+**Şilan Pehlivan**
