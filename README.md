@@ -1,10 +1,12 @@
 🔢 Ackermann Fonksiyonu ile Öz Yineleme
+---
 
 Bu proje, bilgisayar bilimleri ve matematiksel mantık alanında önemli bir yere sahip olan Ackermann Fonksiyonu’nun C# programlama dili kullanılarak özyinelemeli (recursive) şekilde uygulanmasını sunmaktadır. Proje, özyinelemenin çalışma mantığını ve fonksiyonların hesaplama gücünü göstermek amacıyla geliştirilmiştir.
 
 ---
 
 🎯 Projenin Amacı
+---
 
 Bu çalışmanın temel amacı, Ackermann Fonksiyonu’nun matematiksel tanımını C# dilinde özyinelemeli olarak kodlamak ve çalışma mantığını somut bir örnek üzerinden açıklamaktır. Bu kapsamda:
 
@@ -15,6 +17,7 @@ Bu çalışmanın temel amacı, Ackermann Fonksiyonu’nun matematiksel tanımı
 ---
 
 📚 Ackermann Fonksiyonu Nedir?
+---
 
 Ackermann Fonksiyonu, Wilhelm Ackermann tarafından tanımlanmış, ilkel özyinelemeli olmayan en klasik fonksiyon örneklerinden biridir. İki doğal sayı alır ve yine bir doğal sayı döndürür.
 
