@@ -110,4 +110,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar LICENSE dosyasında yer a
 👩‍💻 Geliştirici
 ---
 
-**Şilan Pehlivan**
+Şilan Pehlivan
