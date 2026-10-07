@@ -2,17 +2,32 @@
 
 # Ackermann Fonksiyonu
 
-**Özyineleme ve hesaplama maliyeti**
+### Küçük bir fonksiyon, hızla büyüyen bir hesap.
 
-![C#](https://img.shields.io/badge/C%23-2563eb?style=flat-square)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-0891b2?style=flat-square)
-[![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)](LICENSE)
+![C#](https://img.shields.io/badge/C%23-2563eb?style=for-the-badge)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-0891b2?style=for-the-badge)
+[![MIT](https://img.shields.io/badge/MIT-16a34a?style=for-the-badge)](LICENSE)
 
 Ackermann fonksiyonunu özyinelemeli olarak uygulayan ve hızlı büyüme davranışını örnekleyen konsol projesi.
+
+**Özyineleme ve hesaplama maliyeti**
+
+[Projeyi keşfet](https://github.com/silanpehlivan/Ackermann-Fonksiyonu-ile-z-Yineleme/tree/master) · [Kurulum ve ayrıntılar](#projeyi-çalıştırmak-ve-incelemek)
 
 </div>
 
 ---
+
+## İçeride neler var?
+
+- **01** · İç içe özyinelemeli fonksiyon çağrıları
+- **02** · A(2, 4) için örnek hesaplama
+- **03** · Özyineleme ve hesaplama maliyetinin incelenmesi
+
+## Projeyi çalıştırmak ve incelemek
+
+<details>
+<summary><strong>Kurulum, kod yapısı ve teknik notları aç</strong></summary>
 
 ## Öne Çıkanlar
 
@@ -24,20 +39,19 @@ Ackermann fonksiyonunu özyinelemeli olarak uygulayan ve hızlı büyüme davran
 
 C# · .NET Framework
 
-## Teknik yaklaşım
+### Teknik yaklaşım
 
 Ackermann fonksiyonunun taban koşulları ve iç içe rekürsif çağrıları doğrudan uygulanır. A(2, 4) örneği çağrı yapısını incelemek için başlangıç noktasıdır.
 
-## Kodu incelemeye başlayın
+### Kodu incelemeye başlayın
 
 - [Program.cs](Program.cs)
 
-## Kapsam ve sınırlar
+### Kapsam ve sınırlar
 
 Girdi büyüdükçe çağrı sayısı hızla artar; büyük değerlerde çalışma süresi ve stack taşması sınırları dikkate alınmalıdır.
 
-<details>
-<summary><strong>Kurulum, kullanım ve teknik ayrıntılar</strong></summary>
+
 
 Bu proje, bilgisayar bilimleri ve matematiksel mantık alanında önemli bir yere sahip olan Ackermann Fonksiyonu’nun C# programlama dili kullanılarak özyinelemeli (recursive) şekilde uygulanmasını sunmaktadır. Proje, özyinelemenin çalışma mantığını ve fonksiyonların hesaplama gücünü göstermek amacıyla geliştirilmiştir.
 
@@ -137,6 +151,8 @@ Ackermann-Fonksiyonu-ile-Ozyineleme-master/
 ```
 
 ---
+
+
 
 
 </details>
