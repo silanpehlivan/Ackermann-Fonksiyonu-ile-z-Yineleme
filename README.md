@@ -1,11 +1,37 @@
-🔢 Ackermann Fonksiyonu ile Öz Yineleme
+<div align="center">
+
+# Ackermann Fonksiyonu
+
+**Özyineleme ve hesaplama maliyeti**
+
+![C#](https://img.shields.io/badge/C%23-2563eb?style=flat-square)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-0891b2?style=flat-square)
+[![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)](LICENSE)
+
+Ackermann fonksiyonunu özyinelemeli olarak uygulayan ve hızlı büyüme davranışını örnekleyen konsol projesi.
+
+</div>
+
 ---
+
+## Öne Çıkanlar
+
+- İç içe özyinelemeli fonksiyon çağrıları
+- A(2, 4) için örnek hesaplama
+- Özyineleme ve hesaplama maliyetinin incelenmesi
+
+## Teknolojiler
+
+C# · .NET Framework
+
+<details>
+<summary><strong>Kurulum, kullanım ve teknik ayrıntılar</strong></summary>
 
 Bu proje, bilgisayar bilimleri ve matematiksel mantık alanında önemli bir yere sahip olan Ackermann Fonksiyonu’nun C# programlama dili kullanılarak özyinelemeli (recursive) şekilde uygulanmasını sunmaktadır. Proje, özyinelemenin çalışma mantığını ve fonksiyonların hesaplama gücünü göstermek amacıyla geliştirilmiştir.
 
 ---
 
-🎯 Projenin Amacı
+ Projenin Amacı
 ---
 
 Bu çalışmanın temel amacı, Ackermann Fonksiyonu’nun matematiksel tanımını C# dilinde özyinelemeli olarak kodlamak ve çalışma mantığını somut bir örnek üzerinden açıklamaktır. Bu kapsamda:
@@ -16,7 +42,7 @@ Bu çalışmanın temel amacı, Ackermann Fonksiyonu’nun matematiksel tanımı
 
 ---
 
-📚 Ackermann Fonksiyonu Nedir?
+ Ackermann Fonksiyonu Nedir?
 ---
 
 Ackermann Fonksiyonu, Wilhelm Ackermann tarafından tanımlanmış, ilkel özyinelemeli olmayan en klasik fonksiyon örneklerinden biridir. İki doğal sayı alır ve yine bir doğal sayı döndürür.
@@ -34,7 +60,7 @@ Bu fonksiyon çok hızlı büyüyen bir yapıya sahiptir ve küçük değerlerde
 
 ---
 
-⚙️ Teknik Detaylar
+ Teknik Detaylar
 ---
 
 | Özellik | Açıklama |
@@ -46,7 +72,7 @@ Bu fonksiyon çok hızlı büyüyen bir yapıya sahiptir ve küçük değerlerde
 
 ---
 
-💻 Implementasyon Detayları
+ Implementasyon Detayları
 ---
 
 Projenin ana mantığı `Program.cs` dosyasında bulunan `Ackermann(int a, int b)` fonksiyonunda yer almaktadır.
@@ -75,7 +101,7 @@ Main metodu içerisinde örnek olarak `A(2, 4)` hesaplanmış ve sonuç konsola 
 
 ---
 
-🚀 Kurulum ve Çalıştırma
+ Kurulum ve Çalıştırma
 ---
 
 1. Projeyi indirip klasöre çıkarın  
@@ -85,7 +111,7 @@ Main metodu içerisinde örnek olarak `A(2, 4)` hesaplanmış ve sonuç konsola 
 
 ---
 
-📂 Proje Yapısı
+ Proje Yapısı
 ---
 
 ```
@@ -100,10 +126,15 @@ Ackermann-Fonksiyonu-ile-Ozyineleme-master/
 
 ---
 
-## 📜 Lisans
 
-Bu proje **MIT License** ile lisanslanmıştır. Detaylı bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
+</details>
 
-## 👩‍💻 Geliştirici
+---
 
-Şilan PEHLİVAN
+<div align="center">
+
+**© 2023 Şilan PEHLİVAN**
+
+Bu proje MIT lisansı kapsamında sunulmaktadır. Kullanım ve dağıtım koşulları: [LICENSE](LICENSE).
+
+</div>
