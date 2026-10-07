@@ -24,6 +24,18 @@ Ackermann fonksiyonunu özyinelemeli olarak uygulayan ve hızlı büyüme davran
 
 C# · .NET Framework
 
+## Teknik yaklaşım
+
+Ackermann fonksiyonunun taban koşulları ve iç içe rekürsif çağrıları doğrudan uygulanır. A(2, 4) örneği çağrı yapısını incelemek için başlangıç noktasıdır.
+
+## Kodu incelemeye başlayın
+
+- [Program.cs](Program.cs)
+
+## Kapsam ve sınırlar
+
+Girdi büyüdükçe çağrı sayısı hızla artar; büyük değerlerde çalışma süresi ve stack taşması sınırları dikkate alınmalıdır.
+
 <details>
 <summary><strong>Kurulum, kullanım ve teknik ayrıntılar</strong></summary>
 
